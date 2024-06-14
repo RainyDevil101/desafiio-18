@@ -1,14 +1,10 @@
 # day-18
 
-This template should help get you started developing with Vue 3 in Vite.
+URL del deploy en firebase
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[https://desafio-dia-18.web.app](https://desafio-dia-18.web.app)
 
 ## Project Setup
 
