@@ -1,8 +1,6 @@
 # day-18
 
-URL del deploy en firebase
-
-## Recommended IDE Setup
+## URL del deploy en firebase
 
 [https://desafio-dia-18.web.app](https://desafio-dia-18.web.app)
 
